@@ -1,0 +1,17 @@
+# Fichiers compilés et binaires
+*.o
+*.obj
+*.exe
+*.elf
+*.bin
+*.hex
+*.out
+build/
+
+# Environnements de développement (VS Code, PlatformIO, etc.)
+.vscode/
+.pio/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
